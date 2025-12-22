@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Data Analysis projects using Excel, SQL, and Python<br><br>🤝Beginner-friendly data analysis projects, dashboards, and SQL practice problems<br><br>🆘Advanced SQL queries, real-world datasets, and Python for data analysis<br><br>🌱SQL joins & subqueries, Python (NumPy, Pandas), and Excel advanced functions<br><br>💬Excel formulas, SQL basics, data analysis concepts, and statistics fundamentals
+Hello , I am madhurima singh<br><br>🎓 Data Analysis projects using Excel, SQL, and Python<br><br>🤝Beginner-friendly data analysis projects, dashboards, and SQL practice problems<br><br>🆘Advanced SQL queries, real-world datasets, and Python for data analysis<br><br>🌱SQL joins & subqueries, Python (NumPy, Pandas), and Excel advanced functions<br><br>💬Excel formulas, SQL basics, data analysis concepts, and statistics fundamentals
 
 
 ## 🌐 Socials:

@@ -1,6 +1,6 @@
   <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/1d796eaa-77b1-4769-adbb-10fe0b28937e" />
-# 💫 About Me:
-Hello , I am madhurima singh<br><br>🎓 Data Analysis projects using Excel, SQL, and Python<br><br>🤝Beginner-friendly data analysis projects, dashboards, and SQL practice problems<br><br>🆘Advanced SQL queries, real-world datasets, and Python for data analysis<br><br>🌱SQL joins & subqueries, Python (NumPy, Pandas), and Excel advanced functions<br><br>💬Excel formulas, SQL basics, data analysis concepts, and statistics fundamentals
+# 💫 About Me:<h1 align="center">Hi 👋, I'm Madhurima singh</h1>
+🎓 Data Analysis projects using Excel, SQL, and Python<br><br>🤝Beginner-friendly data analysis projects, dashboards, and SQL practice problems<br><br>🆘Advanced SQL queries, real-world datasets, and Python for data analysis<br><br>🌱SQL joins & subqueries, Python (NumPy, Pandas), and Excel advanced functions<br><br>💬Excel formulas, SQL basics, data analysis concepts, and statistics fundamentals
 
 
 ## 🌐 Socials:
